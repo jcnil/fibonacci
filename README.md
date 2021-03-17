@@ -15,4 +15,4 @@ For the fibonacci series method I decided to create a recursive function althoug
 
 ## Challenge Solution by
 
-* **José Nicolielly** - - [jcnil](https://github.com/jcnil/)
+* **José Nicolielly** - - [jcnil](https://github.com/jcnil/fibonacci)
